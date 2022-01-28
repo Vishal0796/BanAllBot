@@ -10,12 +10,12 @@ Telegram Code To Ban All Group Members very fast
 #### TELEGRAM_BOT_TOKEN - get it from [@BOTFATHER](https://t.me/BOTFATHER) 
 ## DEPLOY TO HEROKU
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TeamRaichu/BanAllBot"><img align="center" alt="Heroku" width="220px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Vishal0796/BanAllBot"><img align="center" alt="Heroku" width="220px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
  
 
 # CREDIT 📝
 
-HEROKU - [HERE](https://heroku.com/deploy?template=https://github.com/TeamRaichu/BanAllBot) 
+HEROKU - [HERE](https://heroku.com/deploy?template=https://github.com/Vishal0796/BanAllBot) 
 
 BOO - [CHUTIYA HERE](t.me/Timesisnotwaiting) 
 
